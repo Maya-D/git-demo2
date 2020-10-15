@@ -5,3 +5,5 @@ Fourth string
 
 Fifth string
 Sixth string
+
+add first half of my favorite song
